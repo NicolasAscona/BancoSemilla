@@ -1,0 +1,1 @@
+[{"idEmpleado":123,"dni":123,"nombreApellido":"asd","telefono":123,"correo":"asd","idPersona":123,"direccion":"asd"}]

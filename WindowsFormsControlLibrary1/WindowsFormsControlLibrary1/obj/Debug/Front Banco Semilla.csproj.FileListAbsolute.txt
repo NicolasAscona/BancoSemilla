@@ -1,0 +1,8 @@
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Front Banco Semilla.csproj.AssemblyReference.cache
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Front Banco Semilla.csproj.GenerateResource.cache
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Front Banco Semilla.csproj.CoreCompileInputs.cache
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\54349\OneDrive\Documentos\Bitbucket\BancoSemillas\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
