@@ -1,1 +1,1 @@
-[{"descripcion":"qwe","idProducto":23,"precio":123,"cantidadTotal":123}]
+[{"descripcion":"asd","idProducto":123,"precio":123,"cantidadTotal":123}]
